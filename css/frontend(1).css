@@ -353,7 +353,7 @@
     min-width: 52px;
     min-height: 52px;
     background-color: #eeeeee;
-    background-image: url(../images/remove-dark.svg);
+    background-image: url(/img/remove-dark.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -744,7 +744,7 @@
     margin: 0 10px 0 0;
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0.1);
-    background-image: url("../images/add.svg");
+    background-image: url("/img/add.svg");
     background-size: 20px 20px;
     background-repeat: no-repeat;
     background-position: center;
@@ -822,7 +822,7 @@
     margin: 0 10px 0 0;
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0.1);
-    background-image: url("../images/share.svg");
+    background-image: url("/img/share.svg");
     background-size: 16px 16px;
     background-repeat: no-repeat;
     background-position: center;
@@ -1460,7 +1460,7 @@ body.woocommerce-cart .woosc-hide-checkout, body.woocommerce-checkout .woosc-hid
     width: 10px;
     height: 10px;
     display: inline-block;
-    background-image: url(../images/remove-dark.svg);
+    background-image: url(/img/remove-dark.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 10px;
