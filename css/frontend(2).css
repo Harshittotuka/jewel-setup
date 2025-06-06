@@ -973,7 +973,7 @@ body.rtl .mfp-woosq .mfp-close {
     height: 40px;
     line-height: 40px;
     font-size: 0;
-    background-image: url(../images/close.svg);
+    background-image: url(/img/close.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 20px 20px;
@@ -1039,7 +1039,7 @@ body.woosq-open .woosq-overlay, body.woosq-open .woosq-sidebar {
     margin-top: -16px;
     margin-left: -16px;
     content: '';
-    background-image: url("../images/curve.svg");
+    background-image: url("/img/curve.svg");
     background-repeat: no-repeat;
     background-position: center;
     -webkit-animation: woosq-spinner 1s linear infinite;
