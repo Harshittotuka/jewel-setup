@@ -5630,7 +5630,7 @@ nav.post-navigation .nav-next img {
 @font-face {
   font-family: "olight-icon";
   src: url("./assets/fonts/icons/olight-icon-1.0.0.eot");
-  src: url("./assets/fonts/icons/olight-icon-1.0.0.eot?#iefix") format("eot"), url("./assets/fonts/icons/olight-icon-1.0.0.woff2") format("woff2"), url("./assets/fonts/icons/olight-icon-1.0.0.woff") format("woff"), url("./assets/fonts/icons/olight-icon-1.0.0.ttf") format("truetype"), url("./assets/fonts/icons/olight-icon-1.0.0.svg#olight-icon-1.0.0") format("svg");
+  src: url("./assets/fonts/icons/olight-icon-1.0.0.eot?#iefix") format("eot"), url("/font/icons/olight-icon-1.0.0.woff2") format("woff2"), url("./assets/fonts/icons/olight-icon-1.0.0.woff") format("woff"), url("/font/icons/olight-icon-1.0.0.ttf") format("truetype"), url("/font/icons/olight-icon-1.0.0.svg#olight-icon-1.0.0") format("svg");
 }
 [class*=olight-icon-] {
   font-family: "olight-icon";
